@@ -1,3 +1,4 @@
 {
-    "extends": "equimper"
+    "extends": "equimper",
+    "eslint.packageManager": "yarn"
 }
